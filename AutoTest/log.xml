@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="0" hostname="PC201408221627" name="log" tests="1" time="0.0" timestamp="2018-08-18T12:43:47">
+  <properties />
+  <testcase classname="com.autotest.ChineseTest" name="testChinese" time="0.003" />
+</testsuite>
